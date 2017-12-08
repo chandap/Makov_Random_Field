@@ -6,4 +6,4 @@ height, width = image dimensions, do not make them to large so that it becomes c
 alpha = 0.01
 beta = 0.05
 
-Refer to [MRF](https://pchanda.github.io/MarkovRandomFields/) , [GRF](https://pchanda.github.io/GibbsRandomField/) and [Ising](https://pchanda.github.io/Ising/).
+Refer to my writeups on [MRF](https://pchanda.github.io/MarkovRandomFields/) , [GRF](https://pchanda.github.io/GibbsRandomField/) and [Ising](https://pchanda.github.io/Ising/).
